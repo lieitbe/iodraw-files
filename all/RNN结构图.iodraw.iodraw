@@ -30,7 +30,7 @@
         <mxCell id="SonX7-Fjn8iroM9jsdOy-6" value="value1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SonX7-Fjn8iroM9jsdOy-9" value="value1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SonX7-Fjn8iroM9jsdOy-9" value="value2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
