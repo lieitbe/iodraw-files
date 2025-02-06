@@ -13,8 +13,8 @@
             <mxPoint x="272.04900999999995" y="159.95000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UI_NmPxjGjihtzILMz2R-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="188" width="50" height="30" as="geometry" />
+        <mxCell id="UI_NmPxjGjihtzILMz2R-3" value="人脸检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
