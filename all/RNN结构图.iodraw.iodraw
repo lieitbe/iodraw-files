@@ -21,6 +21,11 @@
         <mxCell id="SonX7-Fjn8iroM9jsdOy-3" value="key2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SonX7-Fjn8iroM9jsdOy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SonX7-Fjn8iroM9jsdOy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SonX7-Fjn8iroM9jsdOy-4" value="key3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="90" height="40" as="geometry" />
         </mxCell>
@@ -32,6 +37,9 @@
         </mxCell>
         <mxCell id="SonX7-Fjn8iroM9jsdOy-9" value="value2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SonX7-Fjn8iroM9jsdOy-11" value="value1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
