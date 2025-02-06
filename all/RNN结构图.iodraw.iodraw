@@ -46,8 +46,11 @@
         <mxCell id="SonX7-Fjn8iroM9jsdOy-11" value="value3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SonX7-Fjn8iroM9jsdOy-12" value="value1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="210" width="90" height="40" as="geometry" />
+        <mxCell id="SonX7-Fjn8iroM9jsdOy-12" value="value4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SonX7-Fjn8iroM9jsdOy-14" value="Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
