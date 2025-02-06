@@ -9,9 +9,12 @@
         </mxCell>
         <mxCell id="UI_NmPxjGjihtzILMz2R-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.657;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="161" y="160" as="sourcePoint" />
-            <mxPoint x="271.04900999999995" y="159.95000000000005" as="targetPoint" />
+            <mxPoint x="162" y="160" as="sourcePoint" />
+            <mxPoint x="272.04900999999995" y="159.95000000000005" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UI_NmPxjGjihtzILMz2R-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="188" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
