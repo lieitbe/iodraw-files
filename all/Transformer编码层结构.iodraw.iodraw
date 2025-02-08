@@ -13,6 +13,9 @@
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-3" value="残差连接和归一化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZS81ro4QqNYbIDsXTBYM-4" value="残差连接和归一化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
