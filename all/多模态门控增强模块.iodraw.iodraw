@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v2SgJ55Gfek4225gzScj-34" value="" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="220" width="98" height="98" as="geometry" />
+          <mxGeometry x="320" y="160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
