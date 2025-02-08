@@ -29,6 +29,9 @@
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZS81ro4QqNYbIDsXTBYM-3" target="ZS81ro4QqNYbIDsXTBYM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZS81ro4QqNYbIDsXTBYM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZS81ro4QqNYbIDsXTBYM-3" target="ZS81ro4QqNYbIDsXTBYM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-3" value="残差连接和归一化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="229" width="220" height="40" as="geometry" />
         </mxCell>
