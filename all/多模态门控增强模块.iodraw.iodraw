@@ -89,10 +89,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="v2SgJ55Gfek4225gzScj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2SgJ55Gfek4225gzScj-34" target="v2SgJ55Gfek4225gzScj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v2SgJ55Gfek4225gzScj-34" value="" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2SgJ55Gfek4225gzScj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2SgJ55Gfek4225gzScj-13" target="v2SgJ55Gfek4225gzScj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2SgJ55Gfek4225gzScj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2SgJ55Gfek4225gzScj-14" target="v2SgJ55Gfek4225gzScj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
