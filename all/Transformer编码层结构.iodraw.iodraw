@@ -22,8 +22,8 @@
         <mxCell id="v2SgJ55Gfek4225gzScj-7" value="D&lt;sub&gt;γV&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2SgJ55Gfek4225gzScj-9" value="向量输入L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="340" width="80" height="40" as="geometry" />
+        <mxCell id="v2SgJ55Gfek4225gzScj-9" value="TA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
