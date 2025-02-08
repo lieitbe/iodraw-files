@@ -10,6 +10,9 @@
         <mxCell id="YvYiQENoeDAzo95EsKZ7-2" value="音频信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="450" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YvYiQENoeDAzo95EsKZ7-3" value="视觉信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
