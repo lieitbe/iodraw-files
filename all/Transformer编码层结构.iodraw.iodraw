@@ -82,7 +82,10 @@
         <mxCell id="v2SgJ55Gfek4225gzScj-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v2SgJ55Gfek4225gzScj-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="350" as="sourcePoint" />
-            <mxPoint x="270" y="300" as="targetPoint" />
+            <mxPoint x="340" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="211" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
