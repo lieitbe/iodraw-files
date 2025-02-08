@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-1" value="残差连接和归一化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="90" width="220" height="40" as="geometry" />
+          <mxGeometry x="250" y="70" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-2" value="自注意力子层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="220" height="40" as="geometry" />
