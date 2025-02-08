@@ -10,11 +10,6 @@
         <mxCell id="v2SgJ55Gfek4225gzScj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2SgJ55Gfek4225gzScj-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="472" y="340" />
-              <mxPoint x="341" y="340" />
-              <mxPoint x="341" y="320" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v2SgJ55Gfek4225gzScj-2" value="向量输入V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
