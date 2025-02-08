@@ -30,7 +30,7 @@
           <mxGeometry x="250" y="229" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-4" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="90" height="40" as="geometry" />
+          <mxGeometry x="250" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZS81ro4QqNYbIDsXTBYM-5" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="150" width="90" height="40" as="geometry" />
