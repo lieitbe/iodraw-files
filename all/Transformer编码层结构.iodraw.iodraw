@@ -8,7 +8,7 @@
           <mxGeometry x="300" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2SgJ55Gfek4225gzScj-2" value="向量输入V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="362" width="80" height="40" as="geometry" />
+          <mxGeometry x="432" y="362" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2SgJ55Gfek4225gzScj-3" value="向量输入A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="362" width="80" height="40" as="geometry" />
