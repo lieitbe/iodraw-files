@@ -7,8 +7,8 @@
         <mxCell id="YvYiQENoeDAzo95EsKZ7-1" value="文本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YvYiQENoeDAzo95EsKZ7-2" value="文本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="460" width="70" height="30" as="geometry" />
+        <mxCell id="YvYiQENoeDAzo95EsKZ7-2" value="音频信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="450" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
