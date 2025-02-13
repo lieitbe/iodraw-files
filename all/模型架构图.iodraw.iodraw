@@ -153,6 +153,9 @@
             <mxPoint x="240" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-50" target="ehnPhx8qy2y3hZD0Czz9-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-50" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="370" y="150" width="20" height="20" as="geometry" />
         </mxCell>
@@ -181,7 +184,7 @@
           <mxGeometry x="170" y="70" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-62" value="Multimodal representation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="306" y="80" width="164" height="40" as="geometry" />
+          <mxGeometry x="287.5" y="77.5" width="185" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
