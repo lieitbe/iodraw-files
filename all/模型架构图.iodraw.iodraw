@@ -133,10 +133,10 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="170" y="130" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehnPhx8qy2y3hZD0Czz9-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.433;entryY=1.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-11" target="ehnPhx8qy2y3hZD0Czz9-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="520" as="sourcePoint" />
-            <mxPoint x="120" y="470" as="targetPoint" />
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="390" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
