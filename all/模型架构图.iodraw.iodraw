@@ -124,6 +124,9 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-41" value="BiGRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="210" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="420" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
