@@ -19,7 +19,7 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-5" value="Visual&lt;br&gt;&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="469" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ehnPhx8qy2y3hZD0Czz9-6" value="Word&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-6" value="Acoustic&lt;br&gt;&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="469" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
