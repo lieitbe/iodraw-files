@@ -63,10 +63,10 @@
         <mxCell id="JUyom8vgrHkrtsKbaROu-8" value="向量输入A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#afd7ed;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JUyom8vgrHkrtsKbaROu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.133;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-5" target="JUyom8vgrHkrtsKbaROu-7">
+        <mxCell id="JUyom8vgrHkrtsKbaROu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-6" target="JUyom8vgrHkrtsKbaROu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JUyom8vgrHkrtsKbaROu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-6" target="JUyom8vgrHkrtsKbaROu-7">
+        <mxCell id="JUyom8vgrHkrtsKbaROu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-5" target="JUyom8vgrHkrtsKbaROu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
