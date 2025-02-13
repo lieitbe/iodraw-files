@@ -26,16 +26,16 @@
           <mxGeometry x="475" y="250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-5" value="γA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="140" width="40" height="40" as="geometry" />
+          <mxGeometry x="300" y="173" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-6" value="γA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="140" width="40" height="40" as="geometry" />
+          <mxGeometry x="420" y="173" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
-          <mxGeometry x="364" y="145" width="30" height="30" as="geometry" />
+          <mxGeometry x="364" y="178" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-8" value="向量输入A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#afd7ed;" vertex="1" parent="1">
-          <mxGeometry x="344" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="340" y="80" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
