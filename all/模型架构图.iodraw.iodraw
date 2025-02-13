@@ -115,6 +115,9 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="420" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-39" value="Word&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="205" y="472" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
