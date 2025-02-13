@@ -16,7 +16,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvYiQENoeDAzo95EsKZ7-2" target="JUyom8vgrHkrtsKbaROu-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="400" />
+              <mxPoint x="495" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YvYiQENoeDAzo95EsKZ7-2" value="向量输入A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#afd7ed;" parent="1" vertex="1">
           <mxGeometry x="344" y="430" width="70" height="30" as="geometry" />
