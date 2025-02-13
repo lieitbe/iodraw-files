@@ -52,6 +52,9 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-17" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-18" target="ehnPhx8qy2y3hZD0Czz9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="20" height="20" as="geometry" />
         </mxCell>
@@ -84,6 +87,9 @@
             <mxPoint x="110" y="460" as="sourcePoint" />
             <mxPoint x="80" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-27" target="ehnPhx8qy2y3hZD0Czz9-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-27" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="70" y="292" width="80" height="30" as="geometry" />
