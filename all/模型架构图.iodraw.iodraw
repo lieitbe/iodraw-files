@@ -165,8 +165,11 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-40" target="ehnPhx8qy2y3hZD0Czz9-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ehnPhx8qy2y3hZD0Czz9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.133;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-51" target="ehnPhx8qy2y3hZD0Czz9-50">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="210" as="sourcePoint" />
+            <mxPoint x="140" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
