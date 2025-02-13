@@ -16,16 +16,19 @@
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-2" value="音频信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="540" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ehnPhx8qy2y3hZD0Czz9-3" target="ehnPhx8qy2y3hZD0Czz9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-3" value="视觉信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ehnPhx8qy2y3hZD0Czz9-4" value="Word&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-4" value="Word&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="195" y="469" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ehnPhx8qy2y3hZD0Czz9-5" value="Visual&lt;br&gt;&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-5" value="Visual&lt;br&gt;&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="335" y="469" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ehnPhx8qy2y3hZD0Czz9-6" value="Acoustic&lt;br&gt;&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ehnPhx8qy2y3hZD0Czz9-6" value="Acoustic&lt;br&gt;&lt;div&gt;Embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="475" y="469" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
