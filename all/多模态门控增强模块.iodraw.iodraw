@@ -70,8 +70,8 @@
         <mxCell id="JUyom8vgrHkrtsKbaROu-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="364" y="178" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JUyom8vgrHkrtsKbaROu-8" value="向量输入A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#afd7ed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="70" height="30" as="geometry" />
+        <mxCell id="JUyom8vgrHkrtsKbaROu-8" value="向量输出Z" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#afd7ed;" vertex="1" parent="1">
+          <mxGeometry x="344" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-6" target="JUyom8vgrHkrtsKbaROu-7">
           <mxGeometry relative="1" as="geometry" />
