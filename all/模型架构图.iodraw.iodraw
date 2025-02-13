@@ -89,10 +89,10 @@
           <mxGeometry x="70" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="410" height="130" as="geometry" />
+          <mxGeometry x="160" y="190" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ehnPhx8qy2y3hZD0Czz9-30" value="Crossmodal&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;（融合矩阵+文本特征）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="255" y="240" width="115" height="50" as="geometry" />
+          <mxGeometry x="172.5" y="230" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
