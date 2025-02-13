@@ -32,7 +32,7 @@
         <mxCell id="JUyom8vgrHkrtsKbaROu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-1" target="JUyom8vgrHkrtsKbaROu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JUyom8vgrHkrtsKbaROu-1" value="DγA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="JUyom8vgrHkrtsKbaROu-1" value="D&lt;sub&gt;γA&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="245" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-2" target="JUyom8vgrHkrtsKbaROu-4">
@@ -64,7 +64,7 @@
         <mxCell id="JUyom8vgrHkrtsKbaROu-5" value="γ&lt;sub&gt;A&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="300" y="173" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JUyom8vgrHkrtsKbaROu-6" value="γA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="JUyom8vgrHkrtsKbaROu-6" value="γ&lt;sub&gt;A&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="420" y="173" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JUyom8vgrHkrtsKbaROu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JUyom8vgrHkrtsKbaROu-7" target="JUyom8vgrHkrtsKbaROu-8">
