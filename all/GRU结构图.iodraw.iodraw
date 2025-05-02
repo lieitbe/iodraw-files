@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6q1W9gJ4Ac-oCylp9k1p-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6q1W9gJ4Ac-oCylp9k1p-30" value="重置门&lt;div&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
